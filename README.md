@@ -3,9 +3,12 @@ simpleMvc
 A simple php mvc created for practice after going though various tutorials
 
 tools used
+==========
+ - Twig Template engine - http://twig.sensiolabs.org/documentation
+ - php, mysql
 
 credits
 ========
- - Twig Template engine - http://twig.sensiolabs.org/documentation
+
  - JREAM youtube channel - php mvc tutorial
  - phpacadamy 
